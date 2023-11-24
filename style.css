@@ -60,7 +60,30 @@ body{
 .card-body p {
     width: 16rem;
     font-size: 0.8rem;
+    line-height: 1.5;
     text-align:justify;
     margin: 0;
     margin-top: 1rem;
+}
+
+.play-now-btn{
+    width: max-content;
+    background-color: #3D0000;
+    color:#D2C8AE;
+    text-transform: uppercase;
+    font-family: 'Merriweather', serif;
+    font-size: 1rem;
+    margin-top: 2rem;
+    padding: 0.5rem 2rem;
+    border: transparent;
+    border-radius: 1rem;
+}
+
+.play-now-btn:active{
+    background-color: #950101;
+}
+
+.play-now-btn a{
+    color:#D2C8AE;
+    text-decoration: none;
 }
