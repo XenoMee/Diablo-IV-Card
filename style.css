@@ -93,9 +93,11 @@ body{
 }
 
 .attribution{
+    position: relative;
     display: inline-block;
     font-size: 1rem;
     color: #878582;
+    top: 6rem;
 }
 
 .attribution a{
