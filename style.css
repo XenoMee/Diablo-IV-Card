@@ -31,8 +31,10 @@ body{
 }
 
 .card-body{
+    font-family: 'Poppins', sans-serif;
     color: #878582;
     background-color: darkred;
+    padding: 1.5rem 2rem;
     border-bottom-right-radius: 0.5rem;
     border-bottom-left-radius: 0.5rem;
 }
@@ -41,7 +43,7 @@ body{
     text-transform: uppercase;
     font-family: 'Merriweather', serif;
     font-weight: 700;
-    font-size: 1.9rem;
+    font-size: 1.5rem;
     color: #D2C8AE;
     margin: 0;
     padding-top: 1rem;
@@ -49,8 +51,16 @@ body{
 
 .card-body h2{
     text-transform: uppercase;
+    font-weight: 400;
+    font-size: 1.15rem;
+    margin: 0;
+    margin-top: 1rem;
 }
 
 .card-body p {
-    font-family: 'Poppins', sans-serif;
+    width: 16rem;
+    font-size: 0.8rem;
+    text-align:justify;
+    margin: 0;
+    margin-top: 1rem;
 }
