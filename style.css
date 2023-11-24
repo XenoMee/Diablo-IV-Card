@@ -38,10 +38,17 @@ body{
 }
 
 .card-body h1{
+    text-transform: uppercase;
     font-family: 'Merriweather', serif;
+    font-weight: 700;
+    font-size: 1.9rem;
     color: #D2C8AE;
     margin: 0;
     padding-top: 1rem;
+}
+
+.card-body h2{
+    text-transform: uppercase;
 }
 
 .card-body p {
