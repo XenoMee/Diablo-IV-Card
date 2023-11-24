@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: #0F0F0F
+    background-color: #321E1E;
 }
 
 .text-shadow{
@@ -29,10 +29,10 @@ body{
     object-fit: cover;
 }
 
-.card-body > h1{
-    color: #D2C8AE;
+.card-body{
+    color: #878582;
 }
 
-.card-body > h2{
-    color: #878582;
+.card-body > h1{
+    color: #D2C8AE;
 }
