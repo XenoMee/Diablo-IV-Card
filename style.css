@@ -3,3 +3,10 @@ body{
     background-color: #242526cc;
 }
 
+.content{
+    height: 100svh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
