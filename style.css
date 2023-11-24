@@ -32,8 +32,12 @@ body{
 .card-body{
     color: #878582;
     background-color: darkred;
+    border-bottom-right-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
 }
 
 .card-body > h1{
     color: #D2C8AE;
+    margin: 0;
+    padding-top: 1rem;
 }
