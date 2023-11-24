@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: #321E1E;
+    background-color: #3D0000;
 }
 
 .card-shadow{
@@ -31,7 +31,7 @@ body{
 
 .card-body{
     color: #878582;
-    background-color: #3D0000;
+    background-color: darkred;
 }
 
 .card-body > h1{
