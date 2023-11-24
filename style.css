@@ -87,3 +87,14 @@ body{
     color:#D2C8AE;
     text-decoration: none;
 }
+
+.attribution{
+    display: inline-block;
+    font-size: 1rem;
+    color: #878582;
+}
+
+.attribution a{
+    color: #D2C8AE;
+    text-decoration:none;
+}
