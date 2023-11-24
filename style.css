@@ -39,6 +39,10 @@ body{
     border-bottom-left-radius: 0.5rem;
 }
 
+.card-body * {
+    display: inline-block;
+}
+
 .card-body h1{
     text-transform: uppercase;
     font-family: 'Merriweather', serif;
@@ -59,9 +63,9 @@ body{
 
 .card-body p {
     width: 16rem;
-    font-size: 0.8rem;
-    line-height: 1.5;
-    text-align:justify;
+    font-size: 0.95rem;
+    line-height: 1.7;
+    text-align:start;
     margin: 0;
     margin-top: 1rem;
 }
