@@ -132,5 +132,9 @@ body{
         font-size: 1.3em;
     }
 
-    
+    .card-body p {
+        width: 19.5em;
+        font-size: 1em;
+        margin-top: 1.5em;
+    }
 }
