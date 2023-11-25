@@ -144,4 +144,9 @@ body{
     .play-now-btn{
         padding: 0.5em 4em;
     }
+
+    footer{
+        position: relative;
+        top: 10.5em;
+    }
 }
