@@ -107,3 +107,51 @@ footer{
     color: #D2C8AE;
     text-decoration:none;
 }
+
+@media (min-width: 42em){
+    .content {
+        height: 100vh;
+    }
+
+    .container{
+        width: 42em;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: min-content;    
+    }
+
+    .container > img{
+        content: url("./images/diablo-iv-main-cover.jpg");
+        height: 100%;
+        border-bottom-right-radius: 0em;
+        border-top-left-radius: 0.5em;
+    }
+
+    .card-body{
+        border-bottom-left-radius: 0em;
+        border-top-right-radius: 0.5em;
+    }
+
+    .card-body h1{
+        font-size: 1.69em;
+    }
+
+    .card-body h2 {
+        font-size: 1.3em;
+    }
+
+    .card-body p {
+        width: 19.5em;
+        font-size: 1em;
+        margin-top: 1.5em;
+    }
+
+    .play-now-btn{
+        padding: 0.5em 4em;
+    }
+
+    footer{
+        position: relative;
+        top: 10.5em;
+    }
+}
