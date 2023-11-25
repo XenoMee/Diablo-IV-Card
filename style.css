@@ -78,7 +78,6 @@ body{
     font-family: 'Merriweather', serif;
     font-size: 1rem;
     margin-top: 2rem;
-    padding: 0.5rem 2rem;
     border: transparent;
     border-radius: 1rem;
 }
@@ -88,6 +87,8 @@ body{
 }
 
 .play-now-btn a{
+    width:10rem;
+    padding: 0.5rem 0rem;
     display: block;
     color:#D2C8AE;
     text-decoration: none;
@@ -155,8 +156,8 @@ footer{
         margin-top: 1.5em;
     }
 
-    .play-now-btn{
-        padding: 0.5em 4em;
+    .play-now-btn a{
+        width: 13em;
     }
 
     footer{
