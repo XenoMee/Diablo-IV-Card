@@ -117,8 +117,10 @@ body{
         grid-template-rows: min-content;    
     }
 
-    /* .container > img{
+    .container > img{
         content: url("./images/diablo-iv-main-cover.jpg");
         height: 100%;
-    } */
+        /* border-bottom-right-radius: 0em;
+        border-top-left-radius: 0.5em; */
+    }
 }
