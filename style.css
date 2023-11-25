@@ -88,6 +88,7 @@ body{
 }
 
 .play-now-btn a{
+    display: block;
     color:#D2C8AE;
     text-decoration: none;
 }
