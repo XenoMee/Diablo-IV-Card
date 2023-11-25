@@ -92,6 +92,11 @@ body{
     text-decoration: none;
 }
 
+footer{
+    position: relative;
+    top: 8.2rem;
+}
+
 .attribution{
     display: inline-block;
     font-size: 1rem;
