@@ -124,6 +124,11 @@ body{
         border-top-left-radius: 0.5em;
     }
 
+    .card-body{
+        border-bottom-left-radius: 0em;
+        border-top-right-radius: 0.5em;
+    }
+
     .card-body h1{
         font-size: 1.69em;
     }
