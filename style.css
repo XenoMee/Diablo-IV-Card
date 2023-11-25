@@ -128,5 +128,9 @@ body{
         font-size: 1.69em;
     }
 
+    .card-body h2 {
+        font-size: 1.3em;
+    }
+
     
 }
