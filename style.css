@@ -109,6 +109,13 @@ footer{
 }
 
 @media (min-width: 42em){
+
+    body{
+        background-image: url("./images/hell-gates-background.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
     .content {
         height: 100vh;
     }
